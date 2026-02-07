@@ -1,0 +1,56 @@
+:root {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: Roboto, 'Helvetica Neue', sans-serif;
+    margin: 0;
+}
+
+header,
+.hero-section,
+footer {
+    background-color: #1F2937;
+}
+
+.hero-left-container h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hero-left-container p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8; 
+}
+
+.hero-left-container button,
+.cta-section,
+.cta-right-container button {
+    background-color: #3882F6;
+}
+
+.cat-variants-section h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.blockquote-section blockquote {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
